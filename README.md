@@ -1,1 +1,2 @@
 -Este es un proyecto encriptador de texto realizado para el programa ONE ORACLE NEXT EDUCATION-ALURA LATAM ,realizado con HTML,CSS Y JAVASCRIPT.
+-Nota:Programa solo adaptado  para pantallas de escritorio no responsive.
